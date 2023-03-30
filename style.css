@@ -9,7 +9,7 @@
     .container{
     height: 100%;
     width: 100%;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../recursos/img/xs1.png);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/xs1.png);
     background-position: center;
     background-size: cover;
     position: absolute;
